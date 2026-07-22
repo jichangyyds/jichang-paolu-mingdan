@@ -1,0 +1,106 @@
+# 机场跑路名单（持续更新）
+
+> 已确认停止运营 / 跑路的机场品牌存档，目前收录 **23** 家。
+> 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-07-22
+
+这个仓库对任何人的佣金收入都毫无帮助，但它有存在的必要。
+
+网上大量「机场推荐」文章从不更新。用户搜到一年前的推荐、点进去、付了款——
+钱就没了。这份名单就是为了让搜索这些品牌名的人，能在付款前先看到风险提示。
+
+---
+
+## 名单
+
+| 品牌 | 状态 | 风险说明 |
+| --- | --- | --- |
+| ~~龙猫云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/longmaoyun/) |
+| ~~TTAG VPN~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/ttag-vpn/) |
+| ~~库洛米 Kuromi~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/kuromi/) |
+| ~~扬帆云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yangfanyun/) |
+| ~~疾风云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/jifengyun/) |
+| ~~一枝红杏~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yizhihongxing/) |
+| ~~红杏云机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/hongxingyun/) |
+| ~~赔钱机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/peiqian/) |
+| ~~xxyun加速机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xxyun/) |
+| ~~SkyLinX~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/skylinx/) |
+| ~~大象网络~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/daxiang/) |
+| ~~Viking Links~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/viking-links/) |
+| ~~E-IX 云加速~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/e-ix/) |
+| ~~游乐园 VPN~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/youleyuan/) |
+| ~~次元链接机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/ciyuanlianjie/) |
+| ~~贝贝云机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/beibeiyun/) |
+| ~~一云梯机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yiyunti/) |
+| ~~飞天猪~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/feitianzhu/) |
+| ~~XFLTD 养鸡场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xfltd/) |
+| ~~最萌的云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/zuimengdeyun/) |
+| ~~八戒机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/bajie/) |
+| ~~泡泡狗机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/paopaogou/) |
+| ~~XX-AI~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xx-ai/) |
+
+**收录标准**：官网长期无法访问、订阅失效且无公告、或社区已广泛确认跑路。
+发现某家已恢复运营？欢迎提 Issue 更正——**我们宁可错删也不漏标**。
+
+---
+
+## 六个跑路前兆
+
+跑路极少毫无征兆。下面这些信号同时出现两个以上，就该准备迁移了：
+
+1. **客服响应变慢或消失** — 最早出现的信号，说明运营方在缩减投入。
+2. **突然推出力度异常的年付促销** — 折后价明显低于成本线，典型的最后一波回款。
+3. **节点持续减少但不解释** — 服务器按月付费，静悄悄减少意味着在退租。
+4. **官网被墙后不再更换域名** — 有能力的机场几小时内就会放出备用域名。
+5. **停止新用户注册** — 对一门生意来说是很反常的动作。
+6. **支付渠道频繁更换或只收加密货币** — 通常是退款投诉率过高被第三方拒收。
+
+展开解释见：[怎么判断一家机场会不会跑路](https://www.jichangyyds.com/blog/ruhe-panduan-jichang-paolu/)
+
+---
+
+## 下单前的五项自查
+
+| 检查项 | 为什么重要 |
+| --- | --- |
+| **运营年限** | 能连续运营两年以上的，跑路概率明显更低。所有指标里最有效的一个。 |
+| **公告渠道** | 没有官网公告页或 TG 频道的，域名一被墙你就彻底失联。 |
+| **备用入口** | 是否提供 2–3 个备用域名，这是运营成熟度的分水岭。 |
+| **条款透明度** | 设备数、流量倍率、限速规则写在明面上的，比什么都不写的更靠谱。 |
+| **付款周期** | **新品牌一律月付起步。** 年付折扣的本质是你借钱给对方并承担风险。 |
+
+---
+
+## 已经中招了怎么办
+
+余额基本无法追回——这类服务通常没有可追溯的合同主体。能做的是三件事：
+
+1. **立刻停用其订阅。** 服务器已无人维护，安全状态未知。
+2. **检查密码复用。** 如果注册密码和邮箱、网银相同，立刻改。**这一条比几十块月费重要得多。**
+3. **迁移到在营服务商。** 参考 [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/)，这次记得月付起步。
+
+---
+
+## 一个反直觉的结论
+
+**便宜不等于容易跑路，但低价档的品牌生命周期确实普遍更短。**
+
+原因不是「便宜的老板不靠谱」，而是成本结构：低价走量模式依赖持续的新用户流入
+覆盖带宽成本，一旦获客放缓，现金流很快撑不住。这是模式问题，不是人品问题。
+
+所以选[便宜机场](https://www.jichangyyds.com/topics/cheap/)不是不行，但要用对方法：
+**月付、不囤长期套餐、订阅链接和备用域名单独存档、心理上接受随时可能要换一家。**
+把单次损失控制在一个月费之内，低价档的性价比依然成立。
+
+---
+
+## 相关资源
+
+- [已跑路机场名单与避坑指南（完整版）](https://www.jichangyyds.com/scam/)
+- [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/) — 84 家在营品牌，按公开价格排序
+- [档位与线路架构横向对比](https://www.jichangyyds.com/compare/)
+- [189 条机场长尾问答库](https://www.jichangyyds.com/faq/)
+
+## 免责声明
+
+本仓库为第三方信息整理，不提供任何代理或网络服务。收录状态基于公开可观察的信息，
+可能存在滞后或误判，欢迎提 Issue 更正。请遵守你所在地区的法律法规。
