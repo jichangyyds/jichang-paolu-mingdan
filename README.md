@@ -14,29 +14,29 @@
 
 | 品牌 | 状态 | 风险说明 |
 | --- | --- | --- |
-| ~~龙猫云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/longmaoyun/) |
-| ~~TTAG VPN~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/ttag-vpn/) |
-| ~~库洛米 Kuromi~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/kuromi/) |
-| ~~扬帆云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yangfanyun/) |
-| ~~疾风云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/jifengyun/) |
-| ~~一枝红杏~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yizhihongxing/) |
-| ~~红杏云机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/hongxingyun/) |
-| ~~赔钱机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/peiqian/) |
-| ~~xxyun加速机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xxyun/) |
-| ~~SkyLinX~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/skylinx/) |
-| ~~大象网络~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/daxiang/) |
-| ~~Viking Links~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/viking-links/) |
-| ~~E-IX 云加速~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/e-ix/) |
-| ~~游乐园 VPN~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/youleyuan/) |
-| ~~次元链接机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/ciyuanlianjie/) |
-| ~~贝贝云机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/beibeiyun/) |
-| ~~一云梯机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/yiyunti/) |
-| ~~飞天猪~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/feitianzhu/) |
-| ~~XFLTD 养鸡场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xfltd/) |
-| ~~最萌的云~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/zuimengdeyun/) |
-| ~~八戒机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/bajie/) |
-| ~~泡泡狗机场~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/paopaogou/) |
-| ~~XX-AI~~ | 已停止运营 | [风险说明与替代推荐](https://www.jichangyyds.com/brands/xx-ai/) |
+| ~~龙猫云~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~TTAG VPN~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~库洛米 Kuromi~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~扬帆云~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~疾风云~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~一枝红杏~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~红杏云机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~赔钱机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~xxyun加速机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~SkyLinX~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~大象网络~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~Viking Links~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~E-IX 云加速~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~游乐园 VPN~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~次元链接机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~贝贝云机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~一云梯机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~飞天猪~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~XFLTD 养鸡场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~最萌的云~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~八戒机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~泡泡狗机场~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
+| ~~XX-AI~~ | 社区反映已停止运营 | 主站不提供任何跳转入口 |
 
 **收录标准**：官网长期无法访问、订阅失效且无公告、或社区已广泛确认跑路。
 发现某家已恢复运营？欢迎提 Issue 更正——**我们宁可错删也不漏标**。
@@ -96,7 +96,7 @@
 ## 相关资源
 
 - [已跑路机场名单与避坑指南（完整版）](https://www.jichangyyds.com/scam/)
-- [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/) — 84 家在营品牌，按公开价格排序
+- [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/) — 16 家在营品牌，按公开价格排序
 - [档位与线路架构横向对比](https://www.jichangyyds.com/compare/)
 - [189 条机场长尾问答库](https://www.jichangyyds.com/faq/)
 
