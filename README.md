@@ -1,7 +1,7 @@
 # 机场跑路名单（持续更新）
 
 > 已确认停止运营 / 跑路的机场品牌存档，目前收录 **20** 家。
-> 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-07-30
+> 数据来源：[机场YYDS](https://www.jichangyyds.com/) · 更新于 2026-08-03
 
 这个仓库对任何人的佣金收入都毫无帮助，但它有存在的必要。
 
@@ -93,7 +93,7 @@
 ## 相关资源
 
 - [已跑路机场名单与避坑指南（完整版）](https://www.jichangyyds.com/scam/)
-- [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/) — 17 家在营品牌（另附[不受推荐影响的纯价格表](https://www.jichangyyds.com/rank/#price)）
+- [2026 机场推荐排行榜](https://www.jichangyyds.com/rank/) — 21 家在营品牌（另附[不受推荐影响的纯价格表](https://www.jichangyyds.com/rank/#price)）
 - [档位与线路架构横向对比](https://www.jichangyyds.com/compare/)
 - [189 条机场长尾问答库](https://www.jichangyyds.com/faq/)
 
